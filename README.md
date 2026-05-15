@@ -112,7 +112,6 @@ _Add screenshots here later._
 
 ## Future Improvements
 
-- GitHub Actions CI/CD
 - Kubernetes deployment
 - Unit and integration tests
 - Email notifications
